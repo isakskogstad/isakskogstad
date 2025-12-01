@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hej! 👋 Jag heter Isak Skogstad
 
-<!--
-**isakskogstad/isakskogstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Välkommen till min GitHub-profil!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Om mig
+
+Jag är en utvecklare som älskar att bygga spännande projekt och lära mig nya teknologier.
+
+---
+
+## 🛠️ Teknologier & Verktyg
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Isaks GitHub stats](https://github-readme-stats.vercel.app/api?username=isakskogstad&show_icons=true&theme=default)
+
+---
+
+## 📫 Kontakta mig
+
+Tveka inte att höra av dig om du vill samarbeta eller bara säga hej!
+
+---
+
+⭐️ Tack för att du besökte min profil!
